@@ -20,7 +20,7 @@ public class LazyKing {
 
     public static void main(String[] args) {
         UnluckyVassal unluckyVassal = new UnluckyVassal();
-
+//asdasdas
         unluckyVassal.printReportForKing(pollResults);
     }
 }
